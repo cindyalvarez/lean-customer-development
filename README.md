@@ -1,2 +1,3 @@
 # lean-customer-development
-Customer development templates
+
+Use these templates as a companion to the book Lean Customer Development: Build Products Your Customers Will Buy
